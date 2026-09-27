@@ -1,0 +1,6 @@
+timestamp,cpu_percent,ram_percent,disk_percent,cpu_status,ram_status,overall_status
+2026-09-27 07:08:23,6.3,7.3,0.8,OK,OK,OK
+2026-09-27 07:08:24,0.1,7.3,0.8,OK,OK,OK
+2026-09-27 07:08:25,0.1,7.3,0.8,OK,OK,OK
+2026-09-27 07:08:26,0.1,7.3,0.8,OK,OK,OK
+2026-09-27 07:08:27,0.0,7.3,0.8,OK,OK,OK
